@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background: rgb(3, 22, 121);
+    background: radial-gradient(circle, rgb(80, 226, 22)0% rgb(11,157,218,1)100%);
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgb(63, 94, 251,1)0% rgb(11,157,218,1)100%);
+}
+#information{
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
